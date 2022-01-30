@@ -1,3 +1,4 @@
-# google clone
+# Google Clone
 
-clone project #1
+> - Clone project #1
+> - [Live Demo](https://falovic.github.io/google-clone)
